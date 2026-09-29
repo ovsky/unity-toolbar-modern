@@ -9,6 +9,12 @@
 
 ---
 
+## 📸 Preview
+
+![Toolbar Extender in Action](https://i.imgur.com/kG9HskL.png)
+
+---
+
 ## ✨ Features
 
 - **Simple & Elegant API** – Just hook your GUI methods to `LeftToolbarGUI` or `RightToolbarGUI`
@@ -79,6 +85,10 @@ The package comes with ready-to-use examples:
 
 ### 🎬 Scene Switcher
 Quick buttons to switch between scenes during development. Demonstrates play mode change handling.
+
+**See it in action:**
+
+![Scene Switcher Example](https://i.imgur.com/DDNfbHW.gif)
 
 ### 👁️ Scene View Focuser  
 A toggle button that demonstrates `EditorPrefs` usage for persistent settings.
